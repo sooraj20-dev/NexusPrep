@@ -1,0 +1,17 @@
+{
+  "communication": 100,
+  "confidence": 74.5,
+  "technical_accuracy": 82.1,
+  "problem_solving": 79.2,
+  "sql": 72.3,
+  "python": 62.4,
+  "java": 50.0,
+  "react": 54.7,
+  "system_design": 53.0,
+  "leadership": 50.0,
+  "behavioral": 67.0,
+  "database_design": 66.7,
+  "api_design": 54.4,
+  "debugging": 61.0,
+  "critical_thinking": 60.1
+}
