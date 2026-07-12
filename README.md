@@ -1,8 +1,8 @@
-# 🎯 InterviewOS — AI Interview Coach
+# 🎯 NexusPrep — AI Interview Coach
 
 > **Practice interviews like it's the real thing. Powered by a local LLM, zero data leaves your machine.**
 
-InterviewOS is an open-source, **local-first** AI interview coaching platform. It simulates real technical and behavioral interviews using Ollama, tracks your eye contact and confidence live via webcam, detects suspicious behaviour with a built-in fraud engine, and delivers instant structured feedback — all without sending a single byte to the cloud.
+NexusPrep is an open-source, **local-first** AI interview coaching platform. It simulates real technical and behavioral interviews using Ollama, tracks your eye contact and confidence live via webcam, detects suspicious behaviour with a built-in fraud engine, and delivers instant structured feedback — all without sending a single byte to the cloud.
 
 ---
 
